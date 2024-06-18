@@ -7,3 +7,7 @@ int main()
   }
   return 0;
 }
+
+git add .
+git commit -m "Modified code to print 'Hello School' instead of 'School', repeated 32 times"
+git push origin master
